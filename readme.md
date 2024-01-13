@@ -5,9 +5,11 @@
 
 ## Acerca de mí
 
-- 🌍 Vivo en Tucumán - Argentina
-- 🎓 Graduada en Ciencias de la Comunicación social- UNT
-- 👩‍💻 Estudiante de Programacion en la UTN- FRT y en Rolling Code School 🚀 
+🌍 Vivo en Tucumán - Argentina
+
+🎓 Graduada en Ciencias de la Comunicación social- UNT
+
+👩‍💻 Estudiante de Programacion en la UTN- FRT y en Rolling Code School 🚀 
 
 ## Tecnologías
 
