@@ -1,8 +1,7 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-........" crossorigin="anonymous" />
-
 # ¡Hola! 👋 Soy Georgina Costilla
 
 ¡Bienvenidos a mi perfil! Soy una entusiasta del aprendizaje constante con pasión por la programación y la comunicación; disfruto explorando nuevas tecnologías y desafíos en el mundo digital.
+¡Siéntete libre de explorar mis proyectos y contactarme para futuras colaboraciones!
 
 ## Acerca de mí
 
@@ -30,10 +29,6 @@
 - 📧 Email: georginacostilla@gmail.com
 - 💼 LinkedIn: [Georgina Costilla](https://www.linkedin.com/in/georgina-costilla/)
 
-![Código QR](./códigoQR/qr-LinkedIn.jpg){:height="200px" width="200px"}
-
-¡Bienvenido a mi rincón en GitHub! Siéntete libre de explorar mis proyectos y contactarme para futuras colaboraciones.
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&count_private=true&hide=contribs,prs)](https://github.com/TU_USUARIO_DE_GITHUB)
+![Código QR](./códigoQR/qr-LinkedIn.jpg)
 
 
