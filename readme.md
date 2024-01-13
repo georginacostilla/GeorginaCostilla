@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Georgina
+# console.log("¡Hola!👋 Soy Georgina");
 
 ¡Bienvenidos a mi perfil! Soy una entusiasta del aprendizaje constante con pasión por la programación y la comunicación; disfruto explorando nuevas tecnologías y desafíos en el mundo digital.
 ¡Siéntete libre de explorar mis proyectos y contactarme para futuras colaboraciones!
