@@ -1,4 +1,4 @@
-# console.log("¡Hola!👋 Soy Georgina");
+# ¡Hola!👋 Soy Georgina
 
 ¡Bienvenidos a mi perfil! Soy una entusiasta del aprendizaje constante con pasión por la programación y la comunicación; disfruto explorando nuevas tecnologías y desafíos en el mundo digital.
 ¡Siéntete libre de explorar mis proyectos y contactarme para futuras colaboraciones!
@@ -27,5 +27,8 @@
 ## Contacto
 
 - 📧 Email: georginacostilla@gmail.com
-- 💼 LinkedIn: [Georgina Costilla](https://www.linkedin.com/in/georgina-costilla/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgina-costilla/)
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliogeorginacostilla.netlify.app/)
 
