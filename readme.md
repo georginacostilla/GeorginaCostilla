@@ -25,6 +25,7 @@
 ## Objetivo académico
 
 - Fusionar habilidades en Comunicación y Programación para impulsar mi crecimiento personal y profesional; busco aplicar esta combinación única en proyectos futuros, aportando una perspectiva versátil y habilidades tanto técnicas como comunicativas.
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliogeorginacostilla.netlify.app/)
 
 ## Contacto
