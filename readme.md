@@ -1,4 +1,6 @@
-# ¡Hola!👋 Soy Georgina
+<img src= "https://github.com/georginacostilla/GeorginaCostilla/blob/main/portadaGC%20-%20gitHub.png"></img>
+
+<h1 align="center">Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Soy Georgina</h1>
 
 ¡Bienvenidos a mi perfil! Soy una entusiasta del aprendizaje constante con pasión por la programación y la comunicación; disfruto explorando nuevas tecnologías y desafíos en el mundo digital.
 ¡Siéntete libre de explorar mis proyectos y contactarme para futuras colaboraciones!
