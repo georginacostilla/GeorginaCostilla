@@ -25,12 +25,11 @@
 ## Objetivo académico
 
 - Fusionar habilidades en Comunicación y Programación para impulsar mi crecimiento personal y profesional; busco aplicar esta combinación única en proyectos futuros, aportando una perspectiva versátil y habilidades tanto técnicas como comunicativas.
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliogeorginacostilla.netlify.app/)
 
 ## Contacto
 
 [![Gmail Badge](https://img.shields.io/badge/-georginacostilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georginacostilla@gmail.com)](mailto:georginacostilla@gmail.com)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgina-costilla/)
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliogeorginacostilla.netlify.app/)
 
