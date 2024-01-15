@@ -13,6 +13,8 @@
 
 ## Tecnologías
 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 - HTML5
 - CSS3
 - Bootstrap
@@ -26,7 +28,7 @@
 
 - Fusionar habilidades en Comunicación y Programación para impulsar mi crecimiento personal y profesional; busco aplicar esta combinación única en proyectos futuros, aportando una perspectiva versátil y habilidades tanto técnicas como comunicativas.
 
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliogeorginacostilla.netlify.app/)
+  [![portfolio](https://img.shields.io/badge/mi_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliogeorginacostilla.netlify.app/)
 
 ## Contacto
 
