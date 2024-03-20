@@ -1,4 +1,4 @@
-<img src= "https://github.com/georginacostilla/GeorginaCostilla/blob/main/portadaGC%20-%20gitHub.png"></img>
+<img src= "https://github.com/georginacostilla/GeorginaCostilla/blob/main/portadaOK.png"></img>
 
 <h1 align="center">Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Soy Georgina</h1>
 
