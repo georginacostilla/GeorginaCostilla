@@ -9,7 +9,7 @@
 
 🌍 Vivo en Tucumán - Argentina
 
-🎓 Graduada en Ciencias de la Ciencias de la Comunicación social - UNT
+🎓 Graduada en Ciencias de la Comunicación social - UNT
 
 👩‍💻 Programadora recibida en la UTN-FRT
 
