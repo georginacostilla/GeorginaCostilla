@@ -9,9 +9,11 @@
 
 🌍 Vivo en Tucumán - Argentina
 
-🎓 Graduada en Ciencias de la Comunicación social- UNT
+🎓 Graduada en Ciencias de la Ciencias de la Comunicación social - UNT
 
-👩‍💻 Estudiante de Programacion en la UTN- FRT y en Rolling Code School 🚀 
+👩‍💻 Programadora recibida en la UTN-FRT
+
+🚀 Programación Full stack y React ADV - Rolling Code School 
 
 ## Tecnologías
 
