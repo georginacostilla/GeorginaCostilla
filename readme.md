@@ -37,6 +37,6 @@
 
 ## Contacto
 
-[![Gmail Badge](https://img.shields.io/badge/-georginacostilla@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georginacostilla@gmail.com)](mailto:georginacostilla@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-georginacostilla.gc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:georginacostilla.gc@gmail.com)](mailto:georginacostilla.gc@gmail.com)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgina-costilla/)
